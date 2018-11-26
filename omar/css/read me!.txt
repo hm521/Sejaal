@@ -1,0 +1,1 @@
+before i stopped working on the project i was changing the classes of the divs to fix some bootstrap problems iam not sure what was the last result when i stopped but it won't be a problem you can easiely fix all the code within the hour
